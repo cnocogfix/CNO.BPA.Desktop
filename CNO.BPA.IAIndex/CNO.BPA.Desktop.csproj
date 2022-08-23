@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6DF832E4-1446-4CE5-94FD-EEDAF28111B8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Custom.InputAccel.UimScript</RootNamespace>
+    <AssemblyName>Custom.InputAccel.UimScript</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\CaptureSystem\CNO Captiva Capture System\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CNO.BPA.DataDirector, Version=2.0.1.25547, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\InputAccel\Client\binnt\CNO.BPA.DataDirector.dll</HintPath>
+    </Reference>
+    <Reference Include="CNO.BPA.DataHandler, Version=2.0.1.24108, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\InputAccel\Client\binnt\CNO.BPA.DataHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="CNO.BPA.DataValidation, Version=2.0.1.25546, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\InputAccel\Client\binnt\CNO.BPA.DataValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="CNO.BPA.PrivacyMailingValidation, Version=2.0.1.25547, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\InputAccel\Client\binnt\CNO.BPA.PrivacyMailingValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="CNO.BPA.Validation4086, Version=2.0.1.25547, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\InputAccel\Client\binnt\CNO.BPA.Validation4086.dll</HintPath>
+    </Reference>
+    <Reference Include="Emc.InputAccel.CaptureClient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2d142e753fe0d8cf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\InputAccel\Client\binnt\Emc.InputAccel.CaptureClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="4086_FORM_MORT\ScriptMORTGAGECORRESPONDENCE.cs" />
+    <Compile Include="4086_FORM_MORT\ScriptMORTGAGEESCROW.cs" />
+    <Compile Include="4086_FORM_MORT\ScriptMORTGAGELEASEFILE.cs" />
+    <Compile Include="4086_FORM_MORT\ScriptMORTGAGEPRECLOSE.cs" />
+    <Compile Include="4086_FORM_MORT\ScriptMORTGAGETHIRDPARTY.cs" />
+    <Compile Include="4086_FORM_MORT\ScriptMORTGAGEWORKINGFILE1.cs" />
+    <Compile Include="4086_FORM_MORT\ScriptMORTGAGEWORKINGFILE2.cs" />
+    <Compile Include="4086_FORM_PP\ScriptPrivatePlacement.cs" />
+    <Compile Include="ArchiveForm\ScriptARCHIVE_FORM.cs" />
+    <Compile Include="CheckRequest\ScriptCheck.cs" />
+    <Compile Include="CPLNB\ScriptCPLNBFORM.cs" />
+    <Compile Include="CPLNB\ScriptCPLSURVEYFORM.cs" />
+    <Compile Include="MULTIPLES\Multiples2.cs" />
+    <Compile Include="StndClaim\ScriptEOMBIndexingFamily.cs" />
+    <Compile Include="StndClaim\ScriptSTNDNONFORM.cs" />
+    <Compile Include="ValidationRejectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidationRejectForm.Designer.cs">
+      <DependentUpon>ValidationRejectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CPL_PHS_BACKSCAN\ScriptBACKSCANFORM.cs" />
+    <Compile Include="CPL_PHS_BACKSCAN\ScriptNOWFORM.cs" />
+    <Compile Include="CPL_PHS_FORM_PRIVACY\ScriptPrivacyNotice.cs" />
+    <Compile Include="CPL_W9\W9FORM.cs" />
+    <Compile Include="MULTIPLES\Multiples.cs" />
+    <Compile Include="NBForm\ScriptBFAXFOBAR.cs" />
+    <Compile Include="Privacy\ScriptPrivacy.cs" />
+    <Compile Include="ReturnedCheck\ScriptCHECK1.cs" />
+    <Compile Include="SurveyForm\ScriptSURVEY5.cs" />
+    <Compile Include="SurveyForm\ScriptSURVEY6.cs" />
+    <Compile Include="SurveyForm\ScriptSURVEY4.cs" />
+    <Compile Include="SurveyForm\ScriptSURVEY3.cs" />
+    <Compile Include="SurveyForm\ScriptSURVEY2.cs" />
+    <Compile Include="StndClaim\ScriptHCFAandUB92IndexingFamily.cs" />
+    <Compile Include="StndClaim\ScriptPHEOMBIndexingFamily.cs" />
+    <Compile Include="DocumentNode.cs" />
+    <Compile Include="IndexRejectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IndexRejectForm.Designer.cs">
+      <DependentUpon>IndexRejectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BatchIssues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BatchIssues.designer.cs">
+      <DependentUpon>BatchIssues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModCommon.cs" />
+    <Compile Include="Share.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScriptMain.cs" />
+    <Compile Include="BPAStandardDocType\ScriptBPAStandardDocType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ValidationRejectForm.resx">
+      <DependentUpon>ValidationRejectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndexRejectForm.resx">
+      <DependentUpon>IndexRejectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BatchIssues.resx">
+      <DependentUpon>BatchIssues.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

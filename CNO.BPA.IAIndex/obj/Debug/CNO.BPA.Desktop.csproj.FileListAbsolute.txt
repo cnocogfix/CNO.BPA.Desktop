@@ -1,0 +1,249 @@
+D:\CaptureSystem\Default\bin\Custom.InputAccel.UimScript.dll
+D:\CaptureSystem\Default\bin\Custom.InputAccel.UimScript.pdb
+D:\Source\CNO.BPA.Desktop\trunk\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csprojResolveAssemblyReference.cache
+D:\Source\CNO.BPA.Desktop\trunk\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\Source\CNO.BPA.Desktop\trunk\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\Source\CNO.BPA.Desktop\trunk\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\Source\CNO.BPA.Desktop\trunk\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.Cache
+D:\Source\CNO.BPA.Desktop\trunk\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\Source\CNO.BPA.Desktop\trunk\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\CaptureSystem\CNO Captiva Capture System\bin\Custom.InputAccel.UimScript.dll
+D:\CaptureSystem\CNO Captiva Capture System\bin\Custom.InputAccel.UimScript.pdb
+D:\Source\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\Source\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\Source\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\Source\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.Cache
+D:\Source\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\Source\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\Source\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csprojResolveAssemblyReference.cache
+D:\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.AssemblyReference.cache
+D:\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.cache
+D:\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CoreCompileInputs.cache
+D:\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.cache
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\Custom.InputAccel.UimScript.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\Custom.InputAccel.UimScript.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataDirector.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataHandler.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataValidation.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.PrivacyMailingValidation.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.Validation4086.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.GroupValidation.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.MVI.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\AcordWrapperClasses.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.Framework.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataDirector.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataHandler.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataValidation.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.PrivacyMailingValidation.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.Validation4086.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\Emc.InputAccel.CaptureClient.xml
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.GroupValidation.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.MVI.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CopyComplete
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\7.1 Files\BPA.net\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.cache
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataDirector.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataHandler.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.DataValidation.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.PrivacyMailingValidation.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\CNO.BPA.Validation4086.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\Emc.InputAccel.CaptureClient.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Release\Emc.InputAccel.CaptureClient.xml
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CopyComplete
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.dll
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\ProdCodebase\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.AssemblyReference.cache
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.AssemblyReference.cache
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.cache
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CopyComplete
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\WORKING BACKUP\CNO.BPA.Desktop_BKP_27_5\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.pdb
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.GroupValidation.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\AcordWrapperClasses.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Memory.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Numerics.Vectors.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Buffers.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll.config
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll.config
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll.config
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll.config
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll.config
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.GroupValidation.dll.config
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.pdb
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.dll.config
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Memory.xml
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Numerics.Vectors.xml
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Buffers.xml
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.AssemblyReference.cache
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.cache
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CoreCompileInputs.cache
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CopyComplete
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\Ashraf\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.GroupValidation.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\AcordWrapperClasses.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Memory.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Numerics.Vectors.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Buffers.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll.config
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.pdb
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll.config
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll.config
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll.config
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll.config
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.GroupValidation.dll.config
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.pdb
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.dll.config
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Memory.xml
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Numerics.Vectors.xml
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Buffers.xml
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.AssemblyReference.cache
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.cache
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CopyComplete
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\New folder\CNO.BPA.Desktop\trunk\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.pdb
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.MVI.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.GroupValidation.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\AcordWrapperClasses.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Memory.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Numerics.Vectors.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Buffers.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll.config
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll.config
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll.config
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll.config
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll.config
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.MVI.dll.config
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.GroupValidation.dll.config
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.pdb
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.dll.config
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Memory.xml
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Numerics.Vectors.xml
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Buffers.xml
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.AssemblyReference.cache
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.cache
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CoreCompileInputs.cache
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CopyComplete
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\Ashraf\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.AssemblyReference.cache
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.ValidationRejectForm.resources
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.IndexRejectForm.resources
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.BatchIssues.resources
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.GenerateResource.cache
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.MVI.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.GroupValidation.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\AcordWrapperClasses.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Memory.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Numerics.Vectors.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Buffers.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataDirector.dll.config
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataHandler.dll.config
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.DataValidation.dll.config
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.PrivacyMailingValidation.dll.config
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Validation4086.dll.config
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.MVI.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.MVI.dll.config
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.GroupValidation.dll.config
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.pdb
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\CNO.BPA.Framework.dll.config
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Memory.xml
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Numerics.Vectors.xml
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\bin\Debug\System.Buffers.xml
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\CNO.BPA.Desktop.csproj.CopyComplete
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\ProdCodebase\CNO.BPA.Desktop\CNO.BPA.IAIndex\obj\Debug\Custom.InputAccel.UimScript.pdb
